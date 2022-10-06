@@ -13,7 +13,7 @@ For example: <br>
 ?file=https://path_of_online_pdf <br>
 
 DEMO:
-https://mazizsahari.github.io/pdf-flipbook/?file=https://mozilla.github.io/pdf.js/web/compressed.tracemonkey-pldi-09.pdf
+https://mazizsahari.github.io/pdf-flipbook?file=https://mozilla.github.io/pdf.js/web/compressed.tracemonkey-pldi-09.pdf
 
 
 When you use it for your website and there's an error of "CROSS ORIGIN!! Cannot access file!", <br>
