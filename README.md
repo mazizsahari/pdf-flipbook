@@ -29,5 +29,4 @@ If there's no more CROSS Origin error and you want to embed it in your website, 
 ```
 <iframe style="width: 100%; height: 700px;" src="https://mazizsahari.github.io/pdf-flipbook/?file=https://path_of_online_pdf" frameborder="0" scrolling="no" seamless="seamless" allowfullscreen="allowfullscreen"></iframe>
 ```
-Remember to set the pdf_filename.pdf based on your pdf file's location. <br>
 You can also set the width and height or other attributes to suit your needs.
