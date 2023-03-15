@@ -1,12 +1,17 @@
 # pdf-flipbook
-Dynamic pdf flipbook where u can set the pdf's path in parameter ?file. <br>
+Dynamic pdf flipbook where you can set the pdf's path in parameter ?file. <br>
 <hr>
 For example: <br>
-If u are using it offline, just download this project in ZIP file. <br>
-Then, unzip it and put it in your xampp's htdocs folder, let's called it: pdf-flipbook-main. <br>
-You can now put your pdf files in that same folder: pdf-flipbook-main. <br>
-To use this pdf-filebook, just open the project and set ?file=your_pdf_filename_or_location.pdf on the url. <br>
-You can also test it offline by just putting ?file=test.pdf on the url <br>
+If you are using it offline, just download this project in ZIP file. <br>
+Then, unzip it and put it in any folder, let's called it: pdf-flipbook-main. <br>
+You can now put your pdf files in that same folder <br>
+To use this pdf-filebook: <br>
+1. If you have not installed node.js, run the installer in installer > run_installer.bat. Skip this step if you have installed it. <br>
+2. Run the system by clicking on the run.bat <br>
+3. It will give you a url to open the system. Usually it is http://127.0.0.1:8080 or http://127.0.0.1:8081. <br>
+4. Copy the url and paste it in any browser, such as Chrome or Mozilla Firefox <br>
+5. You can change which pdf file you want to view by append the url with '?file=your_pdf_filename_or_location.pdf' <br>
+6. For example, let's say your pdf name is called: my_storybook.pdf. To view it, the url will be http://127.0.0.1:8080?file=my_storybook.pdf <br>
 <br>
 If u are using it online, just set the online path of the pdf in the file parameter. <br>
 For example: <br>
