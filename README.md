@@ -11,7 +11,7 @@ To use this pdf-filebook: <br>
 3. It will give you a url to open the system. Usually it is http://127.0.0.1:8080 or http://127.0.0.1:8081. <br>
 4. Copy the url and paste it in any browser, such as Chrome or Mozilla Firefox <br>
 5. You can change which pdf file you want to view by append the url with '?file=your_pdf_filename_or_location.pdf' <br>
-6. For example, let's say your pdf name is called: my_storybook.pdf. To view it, the url will be http://127.0.0.1:8080?file=my_storybook.pdf <br>
+6. For example, let's say your pdf name is called: my_storybook.pdf. To view it, the url should be http://127.0.0.1:8080?file=my_storybook.pdf <br>
 <br>
 If u are using it online, just set the online path of the pdf in the file parameter. <br>
 For example: <br>
